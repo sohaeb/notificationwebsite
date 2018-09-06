@@ -12,7 +12,10 @@ The website takes advantage of:
 - Firebase-Database.
 
 1- The website works by asking the user to login with a username and a password.
+
 2- Enetering a text message
+
 3- The message will be saved in FirebaseDB
+
 4- Upong saving the message in DB, a firebase-function gets triggered. Allowing us to send the text message to users
 
