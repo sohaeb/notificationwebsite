@@ -315,12 +315,12 @@ window.addEventListener('load', function () {
       //   console.log("error" + error)
       // });
       
-      londonislamicschool_database.auth().signInWithEmailAndPassword(username.value, password.value)
-      .then(function (firebaseUser) {
-        console.log("wihs success")
-      }).catch(function (error) {
-        console.log("error" + error)
-      });
+      // londonislamicschool_database.auth().signInWithEmailAndPassword(username.value, password.value)
+      // .then(function (firebaseUser) {
+      //   console.log("wihs success")
+      // }).catch(function (error) {
+      //   console.log("error" + error)
+      // });
 
   });
 
